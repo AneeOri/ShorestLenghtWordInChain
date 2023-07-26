@@ -1,0 +1,2 @@
+# ShorestLenghtWordInChain
+Created with CodeSandbox
